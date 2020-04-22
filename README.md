@@ -23,5 +23,14 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unite
 We encourage use of these data in derivative works. If you use the material provided here, please cite the paper using the reference:
 
 ```
+@article{Nitz:2020naa,
+    author = "Nitz, Alexander H. and Dent, Thomas and Davies, Gareth S. and Harry, Ian",
+    archivePrefix = "arXiv",
+    eprint = "2004.10015",
+    month = "4",
+    primaryClass = "astro-ph.HE",
+    title = "{A Search for Gravitational Waves from Binary Mergers with a Single Observatory}",
+    year = "2020"
+}
 
 ```
